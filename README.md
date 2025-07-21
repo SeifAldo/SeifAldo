@@ -29,9 +29,6 @@
   <a href="mailto:seifaldo.hassan@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="seifaldo.hassan@outlook.com" height="30" width="30" />
   </a>
-  <a href="https://github.com/seifaldo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="seifaldo" height="30" width="30" />
-  </a>
 </p>
 
 
